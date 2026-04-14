@@ -1,6 +1,8 @@
 # global-dummy-identities-3k
 A curated dataset of 3,000 unique, high-fidelity synthetic identities for developers and QA engineers. Includes E.164 formatted phone numbers, algorithmically consistent but fake ID numbers (TCKN, SSN, NHS, etc.), and localized addresses across multiple countries. Designed for zero-collision privacy compliance and large-scale database testing.
 
+You can generate another ones using Python script.
+
 |phone                                                                        |firstName|lastName|email                          |gender|birthDate |idNumber   |address             |
 |-----------------------------------------------------------------------------|---------|--------|-------------------------------|------|----------|-----------|--------------------|
 |+335559865686 &#124; +335554185741                                                |Sarah    |Lefebvre|sarah.lefebvre1@dummy.de       |Female|02.02.1998|FR-5169788 |Dummy St. No:12, FR |
